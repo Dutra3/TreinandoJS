@@ -1,0 +1,17 @@
+body {
+    font: normal 18pt Arial;
+}
+
+h1 {
+    color: blue;
+}
+
+input {
+    font: normal 18pt Arial;
+    width: 100px;
+    color: red;
+}
+
+div#res {
+    margin-top: 25px;
+}
